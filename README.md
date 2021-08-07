@@ -1,0 +1,2 @@
+# online-book-store
+This project is mainly developed for bookstores &amp; shops to computerize the book purchasing process as with the development of technology the working mechanism in all stores is under the process of digitization. The aim of the project is to create an efficient &amp; reliable online bookselling &amp; buying platform to help both buyer and seller. It saves buyer time by facilitating access from anywhere &amp; providing home delivery service.
